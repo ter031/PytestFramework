@@ -1,0 +1,19 @@
+1624340629745	geckodriver	INFO	Listening on 127.0.0.1:63624
+1624340632905	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\deepa\\AppData\\Local\\Temp\\rust_mozprofilegrSVWa"
+1624340635942	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\deepa\\AppData\\Local\\Temp\\rust_mozprofilegrSVWa\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624340650973	Marionette	INFO	Listening on port 63633
+1624340651203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624340659740	Marionette	INFO	Stopped listening on port 63633
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+[Parent 11076, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1624340663258	geckodriver	INFO	Listening on 127.0.0.1:63928
+1624340666310	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\deepa\\AppData\\Local\\Temp\\rust_mozprofileIozc9F"
+1624340667730	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\deepa\\AppData\\Local\\Temp\\rust_mozprofileIozc9F\\search.json.mozlz4", (void 0)))
+1624340673517	Marionette	INFO	Listening on port 52930
+1624340674483	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624340685151	Marionette	INFO	Stopped listening on port 52930
+[Parent 1500, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
